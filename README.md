@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @kavibhushan
-- 👀 I’m interested in ........
-- 🌱 I’m currently learning more knowlege about python progrmming.
-- 💞️ I’m looking to collaborate on .#2#4..
+- 👋 Hi, I’m Dr. kavi bhushan
+- 🌱 I’m currently  working as  assistant professor, in SCRIET CCS UNIVERSITY MEERUT. 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me via email at- kavybhushan@gmail.com
-- 😄 Pronouns: Bhushan
+- 😄 Pronouns: Dr. Bhushan
 - ⚡ Fun fact: Somewhat uncomfortable - I'm selective about what I share.
 
 <!---
